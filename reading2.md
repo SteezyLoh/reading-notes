@@ -8,3 +8,6 @@ Finding the same motherboard that is comptaible with the CPU by chcecking if the
 With the SSD it is very much smaller and gives more room to the motherboard. They are also faster then HDD and is only a chip rather than a moving disk. HDD on the other hand dont need a SATA cable which SSD do.
 ### Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
 Alot of people with my background have little to non PC knowledge. So i would tell them the very bare minimum and tell them that everything is connected to the motherboard. And usually more times then not, the CPU will be in the center and the CPU is the brain of the computer
+
+## Things i want to know more about
+I really want to know more about how the SATA cables and also want to be more good at calculating binary numbers 
