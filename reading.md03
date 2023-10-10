@@ -1,6 +1,6 @@
 ### BIOS/CMOS
 ## reading 03
-
+#
 ### What is the BIOS?
 BIOS is system utility program what loads up the operating system when the computer is first turned on.
 It works with the battery of the motherboard to load the OS. It is the booting process needed to start the computer
