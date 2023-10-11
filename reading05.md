@@ -9,4 +9,5 @@ CD to change directories, LS to list files and MV and the name of file to rename
 Ralative and absolute path are the path to a file that is the working directory. The a ~ (tilde) is a shortcut. it takes you to the home directory
 ### Explain what Linux is, using anything except English.
 ![image](https://github.com/SteezyLoh/ops102-reading-notes01/assets/143899785/a8725e09-8007-42d3-9043-8dbb39e20242)
-
+## Things i want to know more
+I just cant waint to learn more about the language and to get more familer with the software
