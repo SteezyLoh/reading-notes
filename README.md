@@ -1,7 +1,9 @@
-October, 15,2023
+# Reading 201 notes
 
-## Reading 102 notes
-- [Day 1 - China's spy kit](readind.md)
+
+
+# Reading 102 notes
+October, 15,2023- [Day 1 - China's spy kit](readind.md)
 - [Day 1 - How to build a computer](reading2.md)
 - [Day 2 - Startup sequences and bios](reading03.md)
 - [Day 2 - Ubuntu](reading04.md)
