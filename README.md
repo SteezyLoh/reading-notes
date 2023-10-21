@@ -1,7 +1,6 @@
 October, 15,2023
 
-This is where i shift P to D. the learning roadmap start here.
-## Table of Contents
+## Reading 102 notes
 - [Day 1 - China's spy kit](readind.md)
 - [Day 1 - How to build a computer](reading2.md)
 - [Day 2 - Startup sequences and bios](reading03.md)
