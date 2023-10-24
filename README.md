@@ -1,6 +1,5 @@
 # Reading 201 notes
-
-
+- [Day 1 - Backup Your System](ops-201d14-reading-01.md)
 
 # Reading 102 notes
 October, 15,2023- [Day 1 - China's spy kit](readind.md)
