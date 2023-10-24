@@ -1,6 +1,6 @@
 # Reading 201 notes
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
-- [Day 2 - What is Bash](ops-201d14-reading02)
+- [Day 2 - What is Bash](ops-201d14-reading02.md)
 # Reading 102 notes
 October, 15,2023
 - [Day 1.1 - China's spy kit](readind.md)
