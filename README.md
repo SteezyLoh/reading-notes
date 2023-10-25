@@ -1,6 +1,7 @@
 # Reading 201 notes
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
 - [Day 2 - What is Bash](ops-201d14-reading02.md)
+- [Day 3 - Introduction to Help Desk Support Roles](ops-201d14-reading03.md)
 # Reading 102 notes
 October, 15,2023
 - [Day 1.1 - China's spy kit](readind.md)
@@ -12,4 +13,4 @@ October, 15,2023
 - [Day 4.1 - SSH Protocol](reading07.md)
 - [Day 4.2 - What is an ISO profile](reading08.md)
 - [Day 5.1 - Command Prompt: What it is and how to use it](reading09.md)
-  
+
