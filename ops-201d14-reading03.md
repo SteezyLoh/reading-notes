@@ -2,6 +2,8 @@
 ## Introduction to Help Desk Support Roles
 
 <dl>
+ <dt>Help Desk support is key because it one of the first entry jobs for in cyber secuirty field. It is a great job not only learn but to step foot in the industry. If you can do help desk imagine all the doors opening for you. Not only technical skills but people skills will get you far</dt?> 
+
   <dt>What roles does the help desk professional play within an organization, particularly in relation to customers.</dt>
   <dd>A help desk professional is often the face/voice of the problems when it comes down to IT. They are the one usually to blame. Also They must of good communication skills</dd>
 
@@ -20,4 +22,4 @@
 </dl>
 
 # Things i wish i knew more of
-I want to know more about the hiring process. I have a buddy who is an IT specialist and he told me a little about it i just wanted to know more
+I want to know more about the hiring process. I have a buddy who is an IT specialist and he told me a little about it i just wanted to know more about the process.
