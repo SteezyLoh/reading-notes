@@ -2,6 +2,8 @@
 ## CompTIA A+ 220-902 Troubleshooting Methology
 
 <dl>
+
+Most things starts with help desk and if you can learn how to trouble shoot you can learn how to do anything.
   <dt>What should you do if multiple issues are happening simultaneously during touble shooting?</dt>
   <dd>If mutilply issues accuring all at once than its better off to breaking those probablems piece by piece. I would start with the most easist one and work my way up to the more deficult ones as i go </dd>
 
