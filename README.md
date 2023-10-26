@@ -2,7 +2,7 @@
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
 - [Day 2 - What is Bash](ops-201d14-reading02.md)
 - [Day 3 - Introduction to Help Desk Support Roles](ops-201d14-reading03.md)
-- [Day 4 - Troubleshooting Techniques](ops-201d14-reading04.md)
+- [Day 4 - Troubleshooting Techniques](ops-201d14reading04.md)
 
 
 
