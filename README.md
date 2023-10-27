@@ -3,7 +3,7 @@
 - [Day 2 - What is Bash](ops-201d14-reading02.md)
 - [Day 3 - Introduction to Help Desk Support Roles](ops-201d14-reading03.md)
 - [Day 4 - Troubleshooting Techniques](ops-201d14reading04.md)
-
+- [Day 5 - Windows Commands](ops-201d14-reading05.md)
 
 
 
