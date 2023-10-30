@@ -4,6 +4,7 @@
 - [Day 3 - Introduction to Help Desk Support Roles](ops-201d14-reading03.md)
 - [Day 4 - Troubleshooting Techniques](ops-201d14reading04.md)
 - [Day 5 - Windows Commands](ops-201d14-reading05.md)
+- [Day 6 - Windows Security Center](ops-201d14-reading06.md)
 
 
 
