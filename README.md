@@ -6,7 +6,7 @@
 - [Day 5 - Windows Commands](ops-201d14-reading05.md)
 - [Day 6 - Windows Security Center](ops-201d14-reading06.md)
 - [Day 7 - OS upgrade and remote access](ops-201d14-reading07.md)
-
+- [Day 8 - System Log Analysis, Registry, Control Panel](ops-201d14-reading08.md)
 
 
 
