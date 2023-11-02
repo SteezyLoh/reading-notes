@@ -7,6 +7,7 @@
 - [Day 6 - Windows Security Center](ops-201d14-reading06.md)
 - [Day 7 - OS upgrade and remote access](ops-201d14-reading07.md)
 - [Day 8 - System Log Analysis, Registry, Control Panel](ops-201d14-reading08.md)
+- [Day 9 - Workstation Deployment SOP](ops-201d14-reading09.md)
 
 
 
