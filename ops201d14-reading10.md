@@ -1,6 +1,6 @@
 # ops reading10
 ## Imaging, Backup, and Recovery
-Backips and Disaster recovery is very important because we need if we want to work in cyber secuirty. A clients information is key
+Backups and Disaster recovery is very important because we need if we want to work in cyber secuirty. A clients information is key
 <dl>
   <dt>What is Backup and Disaster Recovery (BDR). And why is it essential for busisiness?</dt>
   <dd>Backup and Disaster recovery are two different things but so related when it comes to work in the field. Everyclient should have a BDR plan just in case somthing happens.</dd>
