@@ -8,7 +8,7 @@
 - [Day 7 - OS upgrade and remote access](ops-201d14-reading07.md)
 - [Day 8 - System Log Analysis, Registry, Control Panel](ops-201d14-reading08.md)
 - [Day 9 - Workstation Deployment SOP](ops-201d14-reading09.md)
-
+- [Day 10 - Imaging, Backup and Recovery](ops201d14-reading10)
 
 
 
