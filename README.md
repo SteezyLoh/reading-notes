@@ -9,7 +9,7 @@
 - [Day 8 - System Log Analysis, Registry, Control Panel](ops-201d14-reading08.md)
 - [Day 9 - Workstation Deployment SOP](ops-201d14-reading09.md)
 - [Day 10 - Imaging, Backup and Recovery](ops201d14-reading10)
-
+- [Day 11 - Data Restoration, Startup Repair, and Secure Disposal](ops201d14-reading11.md)
 
 
 
