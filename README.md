@@ -10,6 +10,7 @@
 - [Day 9 - Workstation Deployment SOP](ops-201d14-reading09.md)
 - [Day 10 - Imaging, Backup and Recovery](ops201d14-reading10)
 - [Day 11 - Data Restoration, Startup Repair, and Secure Disposal](ops201d14-reading11.md)
+- [Day 12 - Virtualizing a Router with pfSense](/home/scottyj/reading-notes/ops201d14-reading12.md)
 
 
 
