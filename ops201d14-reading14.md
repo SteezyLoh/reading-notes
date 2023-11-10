@@ -17,4 +17,4 @@ I know that they are important because malware and ransomeware is very likley.
 - I honestly wouldnt know but one thing i do know is that Mac has a very secure system. So i wouldnt say that it is far from the core values as windows. 
 
 ## One thing that i wish i knew more
-More about ways to detect malware/ransomware
+More about ways to detect malware/ransomware.
