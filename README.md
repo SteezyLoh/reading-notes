@@ -15,7 +15,7 @@
 - [Day 14 - Malware Remediation Tools and Techniques](/home/scottyj/reading-notes/ops201d14-reading14.md)
 - [Day 14 - What Google Learned From Its Quest to Build the Perfect Team](/home/scottyj/reading-notes/ops-201d14-reading15.md)
 
-
+Updated nov 10
 # Reading 102 notes
 October, 15,2023
 - [Day 1.1 - China's spy kit](readind.md)
