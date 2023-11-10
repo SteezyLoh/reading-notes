@@ -12,7 +12,7 @@
 - [Day 11 - Data Restoration, Startup Repair, and Secure Disposal](ops201d14-reading11.md)
 - [Day 12 - Virtualizing a Router with pfSense](/home/scottyj/reading-notes/ops201d14-reading12.md)
 - [Day 13 - Cloud Virtualization with AWS](/home/scottyj/reading-notes/ops201d14-reading13.md)
-- [Day 14 - Malware Remediation Tools and Techniques]()
+- [Day 14 - Malware Remediation Tools and Techniques](/home/scottyj/reading-notes/ops201d14-reading14.md)
 
 
 # Reading 102 notes
