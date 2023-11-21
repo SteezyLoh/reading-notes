@@ -1,3 +1,5 @@
+# Reading 301 Notes
+
 # Reading 201 notes
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
 - [Day 2 - What is Bash](ops-201d14-reading02.md)
