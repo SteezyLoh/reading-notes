@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Reading 301 notes
-
-=======
 # Reading 301 Notes
->>>>>>> refs/remotes/origin/main
+November,26,2023
 
 # Reading 201 notes
 Octoer,23,2023
