@@ -1,6 +1,7 @@
 # Reading 301 Notes
 November,26,2023
-- [Day 1 - Network Traffic Analysis with Wireshark](/home/scottyj/reading-notes/ops-301d14-reading01.md)
+- [Day 1 - Network Traffic Analysis with Wireshark](ops-301d14-reading01.md)
+
 
 # Reading 201 Notes
 Octoer,23,2023
