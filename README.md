@@ -1,7 +1,8 @@
 # Reading 301 Notes
 November,26,2023
+- [Day 1 - Network Traffic Analysis with Wireshark]()
 
-# Reading 201 notes
+# Reading 201 Notes
 Octoer,23,2023
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
 - [Day 2 - What is Bash](ops-201d14-reading02.md)
@@ -20,7 +21,7 @@ Octoer,23,2023
 - [Day 14 - What Google Learned From Its Quest to Build the Perfect Team](/home/scottyj/reading-notes/ops-201d14-reading15.md)
 
 
-# Reading 102 notes
+# Reading 102 Notes
 October,15,2023
 - [Day 1.1 - China's spy kit](readind.md)
 - [Day 1.2 - How to build a computer](reading2.md)
