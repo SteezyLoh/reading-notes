@@ -1,7 +1,7 @@
 # Reading 301 Notes
 November,26,2023
 - [Day 1 - Network Traffic Analysis with Wireshark](ops-301d14-reading01.md)
-
+- [Day 2 - Network scanning with NMAP]()
 
 # Reading 201 Notes
 Octoer,23,2023
