@@ -2,7 +2,7 @@
 November,26,2023
 - [Day 1 - Network Traffic Analysis with Wireshark](ops-301d14-reading01.md)
 - [Day 2 - Network scanning with NMAP](ops301d14-reading02.md)
-
+- [Day 3 - Network Segmentation](ops301d14-reading03.md)
 # Reading 201 Notes
 Octoer,23,2023
 - [Day 1 - Backup Your System](ops-201d14-reading-01.md)
