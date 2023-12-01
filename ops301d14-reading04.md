@@ -1,6 +1,7 @@
 # Ops301 Reading04
 ## Routing
 Routing is important because to be in the network field you must know the basic of the type of network connections.
+
 **1 Which network mode in VirtualBox can be used to emulate unplugging the Ethernet cable from the network?**
 - The mode in VirtualBox that can be used to emulate when the Ethernet Cable is unplugged is called Not attached. It can be useful for testing.
 
