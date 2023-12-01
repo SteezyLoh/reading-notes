@@ -17,4 +17,4 @@ Routing is important because to be in the network field you must know the basic 
 - Port forwarding can be used to provide access to a certain network service that are hidden begind the Nat and external network. Think of an underground tunnel that let u go to somewhere remotely. Helps the network communicate by creating another obstacle.
 
 ## Things i wish i knew more of
-I just wish i done these notes and watch the videos last night instead of before the class. I am on PST and im just waking up an hour before class which leaves me no time to watch the video fully and take time to observed all this data giving to us.
+I just wish i done these notes and watch the videos last night instead of before the class. I am on PST and im just waking up an hour before class which leaves me no time to watch the video fully and take time to observed all this data giving to us. 
