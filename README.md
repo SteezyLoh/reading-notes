@@ -7,6 +7,12 @@ November,26,2023
 - [Day 5 - VPN Tunnels](ops301d14-reading05.md)
 - [Day 6 - NAT(Network Address Protocol)](ops301d14-reading06.md)
 - [Day 7 - Web Server Deployment](ops301d14-reading07.md)
+- [Day 8 - RADIUS Authentication](ops301d14-reading08.md)
+
+
+
+
+
 
 # Reading 201 Notes
 Octoer,23,2023
