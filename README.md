@@ -8,7 +8,7 @@ November,26,2023
 - [Day 6 - NAT(Network Address Protocol)](ops301d14-reading06.md)
 - [Day 7 - Web Server Deployment](ops301d14-reading07.md)
 - [Day 8 - RADIUS Authentication](ops301d14-reading08.md)
-
+- [Day 9 - Network Mirroring](ops301d14-reading09.md)
 
 
 
