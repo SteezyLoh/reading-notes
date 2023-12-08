@@ -9,7 +9,7 @@ November,26,2023
 - [Day 7 - Web Server Deployment](ops301d14-reading07.md)
 - [Day 8 - RADIUS Authentication](ops301d14-reading08.md)
 - [Day 9 - Network Mirroring](ops301d14-reading09.md)
-
+- [Day 10 - VPC](ops301d14-reading10.md)
 
 
 

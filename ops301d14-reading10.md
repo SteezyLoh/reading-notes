@@ -1,6 +1,7 @@
 # Ops Reading 10
 ## VPC
 VPC is very important because it is important to know what time of network a company uses
+
 **1. How can one host within a VPC any services that need to be public?**
 -VPC is like reserving a private spot on the internet. It is at the end of the day the internet. Although it private it is still hosted by the public (Internet)
 
