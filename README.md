@@ -10,6 +10,7 @@ November,26,2023
 - [Day 8 - RADIUS Authentication](ops301d14-reading08.md)
 - [Day 9 - Network Mirroring](ops301d14-reading09.md)
 - [Day 10 - VPC](ops301d14-reading10.md)
+- [Day 11 - Windows Server](ops301d14-reading11.md)
 
 
 
