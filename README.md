@@ -11,7 +11,7 @@ November,26,2023
 - [Day 9 - Network Mirroring](ops301d14-reading09.md)
 - [Day 10 - VPC](ops301d14-reading10.md)
 - [Day 11 - Windows Server](ops301d14-reading11.md)
-
+- [Day 12 - Domain Controller](ops301d14-reading12.md)
 
 
 
