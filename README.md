@@ -13,7 +13,8 @@ November,26,2023
 - [Day 11 - Windows Server](ops301d14-reading11.md)
 - [Day 12 - Domain Controller](ops301d14-reading12.md)
 - [Day 13 - Active Directory](ops301d14-reading13.md)
--[Day 14 - Group Policy, Diversity](ops301d14-reading14.md)(ops301d14-reading14-Diversity)
+- [Day 14 - Group Policy, Diversity](ops301d14-reading14.md)
+- [Day 14 - Diversity & Inclusion in the Tech Industry](ops301d14-reading14-Diversity)
 
 # Reading 201 Notes
 Octoer,23,2023
