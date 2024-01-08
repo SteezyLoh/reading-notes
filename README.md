@@ -1,4 +1,16 @@
 # Reading 401 Notes
+- [Day 1 - Strategic Policy Development](ops401-reading01.md)
+
+
+
+
+
+
+
+
+
+
+
 
 # Reading 301 Notes
 November,26,2023
