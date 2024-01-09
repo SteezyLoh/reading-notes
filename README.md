@@ -61,3 +61,4 @@ November,26,2023
 
 Ops 401: Security Engineering 
 - [Day 1 - Strategic Policy Development](ops401-reading01.md)
+- [Day 2 - Cloud security principles and framework](ops401-reading02.md)
