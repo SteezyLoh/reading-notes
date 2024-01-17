@@ -65,3 +65,4 @@ Ops 401: Security Engineering
 - [Day 3 - Risk Analyst](ops401-reading03.md)
 - [Day 4 - Center Of Internet Security](ops401-reading04.md)
 - [Day 5 - Data File Encryption](ops401-reading06.md)
+- [Day 6 - Protect Data at rest with device encryption](ops401d10-reading07.md)
