@@ -66,3 +66,4 @@ Ops 401: Security Engineering
 - [Day 4 - Center Of Internet Security](ops401-reading04.md)
 - [Day 5 - Data File Encryption](ops401-reading06.md)
 - [Day 6 - Protect Data at rest with device encryption](ops401d10-reading07.md)
+- [Day 7 - Public Key Infrastructure(PKI)](ops401-Reading09.md)
