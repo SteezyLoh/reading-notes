@@ -60,10 +60,11 @@ November,26,2023
 - [Day 14 - Diversity & Inclusion in the Tech Industry](ops301d14-reading14-Diversity.md)
 
 Ops 401: Security Engineering 
-- [Day 1 - Strategic Policy Development](ops401-reading01.md)
-- [Day 2 - Cloud security principles and framework](ops401-reading02.md)
-- [Day 3 - Risk Analyst](ops401-reading03.md)
-- [Day 4 - Center Of Internet Security](ops401-reading04.md)
-- [Day 5 - Data File Encryption](ops401-reading06.md)
-- [Day 6 - Protect Data at rest with device encryption](ops401d10-reading07.md)
-- [Day 7 - Public Key Infrastructure(PKI)](ops401-Reading09.md)
+- [Read 1 - Strategic Policy Development](ops401-reading01.md)
+- [Read 2 - Cloud security principles and framework](ops401-reading02.md)
+- [Read 3 - Risk Analyst](ops401-reading03.md)
+- [Read 5 - Center Of Internet Security](ops401-reading04.md)
+- [Read 6 - Data File Encryption](ops401-reading06.md)
+- [Read 7 - Protect Data at rest with device encryption](ops401d10-reading07.md)
+- [Read 9 - Public Key Infrastructure(PKI)](ops401-Reading09.md)
+- [Read 11 - Setting up Splunk SIEM](ops401-reading11.md)
