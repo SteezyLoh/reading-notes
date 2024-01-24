@@ -68,3 +68,4 @@ Ops 401: Security Engineering
 - [Read 7 - Protect Data at rest with device encryption](ops401d10-reading07.md)
 - [Read 9 - Public Key Infrastructure(PKI)](ops401-Reading09.md)
 - [Read 11 - Setting up Splunk SIEM](ops401-reading11.md)
+- [Read 12 - What is a SOC](Ops401-reading12.md)
