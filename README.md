@@ -70,3 +70,4 @@ Ops 401: Security Engineering
 - [Read 11 - Setting up Splunk SIEM](ops401-reading11.md)
 - [Read 12 - What is a SOC](Ops401-reading12.md)
 - [Read 13 - Reconstructing a Cloud Attack with Splunk](ops401-reading13.md)
+- [Read 14 - Intrusion Detection and Prevention Systems (IDS/IPS)](ops401-reading14.md)
