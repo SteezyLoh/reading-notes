@@ -71,3 +71,4 @@ Ops 401: Security Engineering
 - [Read 12 - What is a SOC](Ops401-reading12.md)
 - [Read 13 - Reconstructing a Cloud Attack with Splunk](ops401-reading13.md)
 - [Read 14 - Intrusion Detection and Prevention Systems (IDS/IPS)](ops401-reading14.md)
+- [Read 16 - Cloud Identity abd Access Management (IAM) with AWS](ops401-reading16.md)
