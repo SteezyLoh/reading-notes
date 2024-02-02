@@ -74,3 +74,4 @@ Ops 401: Security Engineering
 - [Read 16 - Cloud Identity abd Access Management (IAM) with AWS](ops401-reading16.md)
 - [Read 17 - Cloud Network Security](ops401-reading17.md)
 - [Read 18 - Logging and Monitoring](ops401-reading18.md)
+- [Read 19 - AWS GuardDuty](ops401-reading19.md)
