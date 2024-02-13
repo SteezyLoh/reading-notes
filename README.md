@@ -75,3 +75,4 @@ Ops 401: Security Engineering
 - [Read 17 - Cloud Network Security](ops401-reading17.md)
 - [Read 18 - Logging and Monitoring](ops401-reading18.md)
 - [Read 19 - AWS GuardDuty](ops401-reading19.md)
+- [Read 26 - Remote Code Execution](ops401-reading26.md)
