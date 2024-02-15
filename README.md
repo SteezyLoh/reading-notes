@@ -77,3 +77,4 @@ Ops 401: Security Engineering
 - [Read 19 - AWS GuardDuty](ops401-reading19.md)
 - [Read 26 - Remote Code Execution](ops401-reading26.md)
 - [Read 27 - Persistence](ops401-reading27.md)
+- [Read 28 - Log Clearing](ops401-reading28.md)
