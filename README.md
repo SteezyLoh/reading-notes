@@ -78,3 +78,4 @@ Ops 401: Security Engineering
 - [Read 26 - Remote Code Execution](ops401-reading26.md)
 - [Read 27 - Persistence](ops401-reading27.md)
 - [Read 28 - Log Clearing](ops401-reading28.md)
+- [Read 29 - Threat Modeling](ops401-reading29.md)
