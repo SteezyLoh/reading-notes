@@ -79,3 +79,5 @@ Ops 401: Security Engineering
 - [Read 27 - Persistence](ops401-reading27.md)
 - [Read 28 - Log Clearing](ops401-reading28.md)
 - [Read 29 - Threat Modeling](ops401-reading29.md)
+- [Read 31 - YARA Rules](ops401-reading31.md)
+- [Read 32 - Malware Analysis](ops401-reading32.md)
