@@ -81,3 +81,4 @@ Ops 401: Security Engineering
 - [Read 29 - Threat Modeling](ops401-reading29.md)
 - [Read 31 - YARA Rules](ops401-reading31.md)
 - [Read 32 - Malware Analysis](ops401-reading32.md)
+- [Read 36 - XSSS](ops401-Reading36.md)
