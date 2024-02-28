@@ -83,3 +83,4 @@ Ops 401: Security Engineering
 - [Read 32 - Malware Analysis](ops401-reading32.md)
 - [Read 36 - XSSS](ops401-Reading36.md)
 - [Read 37 - ZAP](ops401-reading37.md)
+- [Read 38 - Burp Suite](ops401-Reading38.md)
