@@ -84,4 +84,5 @@ Ops 401: Security Engineering
 - [Read 36 - XSSS](ops401-Reading36.md)
 - [Read 37 - ZAP](ops401-reading37.md)
 - [Read 38 - Burp Suite](ops401-Reading38.md)
-- [Read - 39 SQL INJECTION](Ops401-Reading39.md)
+- [Read 39 - SQL INJECTION](Ops401-Reading39.md)
+- [Read 41 - Reconnaissance](ops401-reading41.md)
