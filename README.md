@@ -86,3 +86,4 @@ Ops 401: Security Engineering
 - [Read 38 - Burp Suite](ops401-Reading38.md)
 - [Read 39 - SQL INJECTION](Ops401-Reading39.md)
 - [Read 41 - Reconnaissance](ops401-reading41.md)
+- [Read 42 - Mimikatz](ops401-Reading42.md)
