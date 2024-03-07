@@ -88,3 +88,4 @@ Ops 401: Security Engineering
 - [Read 41 - Reconnaissance](ops401-reading41.md)
 - [Read 42 - Mimikatz](ops401-Reading42.md)
 - [Read 43 - Sniffing](ops401-reading43.md)
+- [Read 44 - Metasploit](ops401-reading44.md)
